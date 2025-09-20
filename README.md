@@ -38,3 +38,35 @@ HTML: for structuring the content, such as the headings, text, and boxes for cal
 CSS: for styling the different elements, like the colors of the boxes, the font, and the layout of the formulas.
 
 *output
+<img width="1480" height="1726" alt="Image" src="https://github.com/user-attachments/assets/1ecd6700-2931-4181-a290-5ca3cf6610b2" />
+
+
+#PROBLEM-2
+2)A principal of ₹10,000 is invested at a compound interest rate of 8% per year. What will be the total amount after 3 years?
+
+Step 1: Solve the Problem
+To find the total amount after 3 years, we'll use the compound interest formula:
+A=P(1+R/100)^T
+Given:
+Principal (P) = ₹10,000
+Rate (R) = 8% per year
+Time (T) = 3 years
+
+Calculation:
+A=10000(1+8/100)^3
+A=10000(1+0.08)^3 
+A=10000(1.08)^3
+A=10000×1.259712
+A=12597.12
+The total amount after 3 years will be ₹12,597.12.
+
+*Technologies Used
+HTML: for structuring the content, such as the headings, text, and boxes for calculations.
+CSS: for styling the different elements, like the colors of the boxes, the font, and the layout of the formulas.
+
+
+
+
+
+
+
