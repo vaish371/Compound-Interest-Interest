@@ -64,7 +64,8 @@ The total amount after 3 years will be ₹12,597.12.
 HTML: for structuring the content, such as the headings, text, and boxes for calculations.
 CSS: for styling the different elements, like the colors of the boxes, the font, and the layout of the formulas.
 
-
+*output
+<img width="1605" height="983" alt="Image" src="https://github.com/user-attachments/assets/7856d3be-7466-4b04-a7a5-572647f24307" />
 
 
 
